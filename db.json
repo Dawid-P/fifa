@@ -1,0 +1,76 @@
+{
+  "tournaments": [
+    {
+      "country": "Poland",
+      "name": "Ekstrakalasa",
+      "type": "League",
+      "addinfo": "Best league in the world",
+      "tasks": {
+        "task1": "ciastko marchewkowe za 5zł i 50gr",
+        "task2": "ten task jest za free",
+        "task3": "a ten za 13 euro"
+      },
+      "links": {
+        "link1": "https://betsample.com/forum/",
+        "link2": "https://go.cyfrowypolsat.pl/tv/channel/3504",
+        "link3": "http://omnibet.pl/karafka"
+      },
+      "id": 7,
+      "dueDate": "2020-02-15"
+    },
+    {
+      "country": "Germany",
+      "name": "DFB Pokal",
+      "type": "Cup",
+      "addinfo": "no tasks needed",
+      "tasks": {
+        "task1": "cos tam nowego haha",
+        "task2": "cos tam starego",
+        "task3": "a tu chuj"
+      },
+      "links": {
+        "link1": "https://betsample.com/forum/",
+        "link2": "https://go.cyfrowypolsat.pl/tv/channel/3504",
+        "link3": "http://omnibet.pl/komandos5"
+      },
+      "id": 14,
+      "dueDate": "2020-01-31"
+    },
+    {
+      "country": "Holland",
+      "name": "KNVB Becker",
+      "type": "Cup",
+      "addinfo": "Lcoo from 2nd round",
+      "tasks": {
+        "task1": "smoke some weed",
+        "task2": "pokonaj krzyżaków",
+        "task3": "Grzegorz Piechna królem jest"
+      },
+      "links": {
+        "link1": "https://testerzy.com/forum/",
+        "link2": "https://go.home.pl/tv/channel/3504",
+        "link3": "http://omnibet.losers.pl/kotnik"
+      },
+      "id": 52,
+      "dueDate": "2020-02-05"
+    },
+    {
+      "country": "Portugal",
+      "name": "Segunda",
+      "type": "League",
+      "addinfo": "gol gol gol",
+      "tasks": {
+        "task1": "FC Porto WINNERS",
+        "task2": "Benfica Lisboa.",
+        "task3": "Academica Coimbra"
+      },
+      "links": {
+        "link1": "https://betsample.com/forum/EVAD80",
+        "link2": "https://go.cyfrowypolsat.pl/tv/channel/3504",
+        "link3": "http://omnibet.pl/obserwator"
+      },
+      "id": 51,
+      "dueDate": "2020-01-27"
+    }
+  ]
+}
